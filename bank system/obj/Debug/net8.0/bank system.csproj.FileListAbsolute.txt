@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Microsoft Visual Studio\bank system\bin\Debug\net8.0\bank system.exe
+C:\Users\User\Desktop\Microsoft Visual Studio\bank system\bin\Debug\net8.0\bank system.deps.json
+C:\Users\User\Desktop\Microsoft Visual Studio\bank system\bin\Debug\net8.0\bank system.runtimeconfig.json
+C:\Users\User\Desktop\Microsoft Visual Studio\bank system\bin\Debug\net8.0\bank system.dll
+C:\Users\User\Desktop\Microsoft Visual Studio\bank system\bin\Debug\net8.0\bank system.pdb
+C:\Users\User\Desktop\Microsoft Visual Studio\bank system\obj\Debug\net8.0\bank system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Microsoft Visual Studio\bank system\obj\Debug\net8.0\bank system.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Microsoft Visual Studio\bank system\obj\Debug\net8.0\bank system.AssemblyInfo.cs
+C:\Users\User\Desktop\Microsoft Visual Studio\bank system\obj\Debug\net8.0\bank system.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Microsoft Visual Studio\bank system\obj\Debug\net8.0\bank system.dll
+C:\Users\User\Desktop\Microsoft Visual Studio\bank system\obj\Debug\net8.0\refint\bank system.dll
+C:\Users\User\Desktop\Microsoft Visual Studio\bank system\obj\Debug\net8.0\bank system.pdb
+C:\Users\User\Desktop\Microsoft Visual Studio\bank system\obj\Debug\net8.0\bank system.genruntimeconfig.cache
+C:\Users\User\Desktop\Microsoft Visual Studio\bank system\obj\Debug\net8.0\ref\bank system.dll
